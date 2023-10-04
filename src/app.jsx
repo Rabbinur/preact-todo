@@ -10,7 +10,7 @@ export function App() {
 
   return (
     <>
-      <div class="card">
+      <div class="flex flex-col">
         <UserFrom />
         <UserTable />
       </div>
